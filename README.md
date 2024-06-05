@@ -13,6 +13,8 @@ Stage select overview plus maps for each individual stage. Enabled location sett
 
 What's not handled:
 - Enemy weaknesses are not tracked. All bosses are shown as in logic if you can reach them.
+- Wily 5 (refights) number required
+- Hard logic settings (`yoku_jumps` and `enable_lasers`) - hard logic is assumed to be off.
 
 ## Usage
 When using Archipelago auto tracking, logic settings mentioned in "Features" will all be set automatically.  For manual operation (or to check which settings are active), click on the "Open Pack Settings" button at the top of PopTracker while this pack is loaded.
